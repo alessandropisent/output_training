@@ -202,10 +202,5 @@
 - starting with 424
 + completed 424 (24) time taken:3.387484550476074 min
 +++ pushed to hub - time elapsed 1.3032681329382791
+
 - starting with 425
-+ completed 425 (0) time taken:3.36 min
-- starting with 426
-+ completed 426 (1) time taken:2.67 min
-- starting with 427
-+ completed 427 (2) time taken:2.86 min
-- starting with 428
