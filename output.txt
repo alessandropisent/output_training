@@ -470,3 +470,29 @@
 + completed 599 (4) time taken:3.13 min
 +++ pushed to hub - time elapsed 3.19 h 
 - starting with 600
++ completed 600 (0) time taken:2.80 min
+- starting with 601
++ completed 601 (1) time taken:2.80 min
+- starting with 602
++ completed 602 (2) time taken:1.16 min
+- starting with 603
++ completed 603 (3) time taken:2.63 min
+- starting with 604
++ completed 604 (4) time taken:2.51 min
++++ pushed to hub - time elapsed 3.39 h 
+- starting with 605
++ completed 605 (0) time taken:2.80 min
+- starting with 606
++ completed 606 (1) time taken:2.79 min
+- starting with 607
++ completed 607 (2) time taken:3.12 min
+- starting with 608
++ completed 608 (3) time taken:2.95 min
+- starting with 609
++ completed 609 (4) time taken:2.46 min
++++ pushed to hub - time elapsed 3.64 h 
+- starting with 610
++ completed 610 (0) time taken:1.99 min
+- starting with 611
++ completed 611 (1) time taken:1.33 min
+- starting with 612
