@@ -304,55 +304,25 @@
 + completed 473 (23) time taken:1.30 min
 - starting with 474
 + completed 474 (24) time taken:1.17 min
-+++ pushed to hub - time elapsed 2.00 h 
-- starting with 1
-+ completed 1 (0) time taken:1.09 min
-- starting with 2
-+ completed 2 (1) time taken:1.54 min
-- starting with 3
-+ completed 3 (2) time taken:1.17 min
-- starting with 4
-+ completed 4 (3) time taken:1.10 min
-- starting with 5
-+ completed 5 (4) time taken:1.10 min
-- starting with 6
-+ completed 6 (5) time taken:0.80 min
-- starting with 7
-+ completed 7 (6) time taken:0.81 min
-- starting with 8
-+ completed 8 (7) time taken:1.55 min
-- starting with 9
-+ completed 9 (8) time taken:1.40 min
-- starting with 10
-+ completed 10 (9) time taken:1.10 min
-- starting with 11
-+ completed 11 (10) time taken:0.72 min
-- starting with 12
-+ completed 12 (11) time taken:1.26 min
-- starting with 1
-+ completed 1 (0) time taken:2.64 min
-- starting with 2
-+ completed 2 (1) time taken:1.32 min
-- starting with 3
-+ completed 3 (2) time taken:2.28 min
-- starting with 4
-+ completed 4 (3) time taken:0.42 min
-- starting with 5
-+ completed 5 (4) time taken:0.66 min
-- starting with 6
-+ completed 6 (5) time taken:0.80 min
-- starting with 7
-+ completed 7 (6) time taken:0.81 min
-- starting with 8
-+ completed 8 (7) time taken:0.50 min
-- starting with 9
-+ completed 9 (8) time taken:2.40 min
-- starting with 10
-+ completed 10 (9) time taken:2.25 min
-- starting with 11
-+ completed 11 (10) time taken:1.80 min
-- starting with 12
-+ completed 12 (11) time taken:2.29 min
-- starting with 13
-+ completed 13 (12) time taken:0.96 min
-- starting with 14
+---
+- starting with 525
++ completed 525 (0) time taken:0.64 min
+- starting with 526
++ completed 526 (1) time taken:1.03 min
+- starting with 527
++ completed 527 (2) time taken:2.28 min
+- starting with 528
++ completed 528 (3) time taken:2.83 min
+- starting with 529
++ completed 529 (4) time taken:3.21 min
+- starting with 530
++ completed 530 (5) time taken:4.35 min
+- starting with 531
++ completed 531 (6) time taken:2.65 min
+- starting with 532
++ completed 532 (7) time taken:3.03 min
+- starting with 533
++ completed 533 (8) time taken:3.39 min
+- starting with 534
++ completed 534 (9) time taken:3.22 min
+- starting with 535
