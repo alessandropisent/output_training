@@ -780,3 +780,32 @@
 - starting with 2990
 + completed 2990 (15) time taken:1.93 min
 - starting with 2991
++ completed 2991 (16) time taken:0.96 min
+- starting with 2992
++ completed 2992 (17) time taken:0.76 min
+- starting with 2993
++ completed 2993 (18) time taken:2.72 min
+- starting with 2994
++ completed 2994 (19) time taken:2.71 min
+- starting with 2995
++ completed 2995 (20) time taken:1.15 min
+- starting with 2996
++ completed 2996 (21) time taken:0.78 min
+- starting with 2997
++ completed 2997 (22) time taken:0.48 min
+- starting with 2998
++ completed 2998 (23) time taken:1.20 min
+- starting with 2999
++ completed 2999 (24) time taken:0.74 min
++++ pushed to hub - time elapsed 2.17 h 
+- starting with 3900
++ completed 3900 (0) time taken:0.79 min
+- starting with 3901
++ completed 3901 (1) time taken:0.75 min
+- starting with 3902
++ completed 3902 (2) time taken:0.75 min
+- starting with 3903
++ completed 3903 (3) time taken:0.87 min
+- starting with 3904
++ completed 3904 (4) time taken:2.10 min
+- starting with 3905
