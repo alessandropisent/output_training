@@ -944,3 +944,38 @@
 + completed 3968 (8) time taken:2.36 min
 - starting with 3969
 + completed 3969 (9) time taken:2.30 min
++++ pushed to hub - time elapsed 2.10 h 
+- starting with 3970
++ completed 3970 (0) time taken:2.46 min
+- starting with 3971
++ completed 3971 (1) time taken:1.15 min
+- starting with 3972
++ completed 3972 (2) time taken:2.62 min
+- starting with 3973
++ completed 3973 (3) time taken:0.45 min
+- starting with 3974
++ completed 3974 (4) time taken:0.73 min
+- starting with 3975
++ completed 3975 (5) time taken:0.56 min
+- starting with 3976
++ completed 3976 (6) time taken:0.85 min
+- starting with 3977
++ completed 3977 (7) time taken:2.67 min
+- starting with 3978
++ completed 3978 (8) time taken:2.69 min
+- starting with 3979
++ completed 3979 (9) time taken:1.48 min
++++ pushed to hub - time elapsed 2.37 h 
+- starting with 3980
++ completed 3980 (0) time taken:2.94 min
+- starting with 3981
++ completed 3981 (1) time taken:1.31 min
+- starting with 3982
++ completed 3982 (2) time taken:1.64 min
+- starting with 3983
++ completed 3983 (3) time taken:2.61 min
+- starting with 3984
++ completed 3984 (4) time taken:2.61 min
+- starting with 3985
++ completed 3985 (5) time taken:1.96 min
+- starting with 3986
