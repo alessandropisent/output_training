@@ -1431,3 +1431,28 @@
 - starting with 4210
 + completed 4210 (5) time taken:2.82 min
 - starting with 4211
++ completed 4211 (6) time taken:2.82 min
+- starting with 4212
++ completed 4212 (7) time taken:2.65 min
+- starting with 4213
++ completed 4213 (8) time taken:2.49 min
+- starting with 4214
++ completed 4214 (9) time taken:2.98 min
+- starting with 4215
++ completed 4215 (10) time taken:3.16 min
+- starting with 4216
++ completed 4216 (11) time taken:2.65 min
+- starting with 4217
++ completed 4217 (12) time taken:3.48 min
+- starting with 4218
++ completed 4218 (13) time taken:1.67 min
+- starting with 4219
++ completed 4219 (14) time taken:1.67 min
++++ pushed to hub - time elapsed 3.81 h 
+- starting with 4220
++ completed 4220 (0) time taken:2.32 min
+- starting with 4221
++ completed 4221 (1) time taken:2.64 min
+- starting with 4222
++ completed 4222 (2) time taken:3.14 min
+- starting with 4223
