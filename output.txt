@@ -2043,3 +2043,58 @@
 - starting with 4506
 + completed 4506 (1) time taken:1.12 min
 - starting with 4507
++ completed 4507 (2) time taken:1.04 min
+- starting with 4508
++ completed 4508 (3) time taken:0.97 min
+- starting with 4509
++ completed 4509 (4) time taken:0.46 min
+- starting with 4510
++ completed 4510 (5) time taken:1.04 min
+- starting with 4511
++ completed 4511 (6) time taken:0.68 min
+- starting with 4512
++ completed 4512 (7) time taken:1.26 min
+- starting with 4513
++ completed 4513 (8) time taken:0.68 min
+- starting with 4514
++ completed 4514 (9) time taken:1.41 min
+- starting with 4515
++ completed 4515 (10) time taken:2.82 min
+- starting with 4516
++ completed 4516 (11) time taken:1.43 min
+- starting with 4517
++ completed 4517 (12) time taken:1.20 min
+- starting with 4518
++ completed 4518 (13) time taken:1.19 min
+- starting with 4519
++ completed 4519 (14) time taken:0.67 min
++++ pushed to hub - time elapsed 4.07 h 
+- starting with 4520
++ completed 4520 (0) time taken:1.10 min
+- starting with 4521
++ completed 4521 (1) time taken:0.66 min
+- starting with 4522
++ completed 4522 (2) time taken:1.39 min
+- starting with 4523
++ completed 4523 (3) time taken:1.10 min
+- starting with 4524
++ completed 4524 (4) time taken:1.39 min
+- starting with 4525
++ completed 4525 (5) time taken:0.81 min
+- starting with 4526
++ completed 4526 (6) time taken:1.18 min
+- starting with 4527
++ completed 4527 (7) time taken:1.17 min
+- starting with 4528
++ completed 4528 (8) time taken:1.04 min
+- starting with 4529
++ completed 4529 (9) time taken:1.46 min
+- starting with 4530
++ completed 4530 (10) time taken:1.03 min
+- starting with 4531
++ completed 4531 (11) time taken:1.11 min
+- starting with 4532
++ completed 4532 (12) time taken:0.67 min
+- starting with 4533
++ completed 4533 (13) time taken:0.68 min
+- starting with 4534
