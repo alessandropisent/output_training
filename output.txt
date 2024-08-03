@@ -3010,3 +3010,23 @@
 - starting with 4974
 + completed 4974 (4) time taken:1.39 min
 - starting with 4975
++ completed 4975 (5) time taken:3.04 min
+- starting with 4976
++ completed 4976 (6) time taken:1.33 min
+- starting with 4977
++ completed 4977 (7) time taken:1.13 min
+- starting with 4978
++ completed 4978 (8) time taken:1.13 min
+- starting with 4979
++ completed 4979 (9) time taken:2.94 min
+- starting with 4980
++ completed 4980 (10) time taken:2.64 min
+- starting with 4981
++ completed 4981 (11) time taken:1.58 min
+- starting with 4982
++ completed 4982 (12) time taken:1.35 min
+- starting with 4983
++ completed 4983 (13) time taken:2.39 min
+- starting with 4984
++ completed 4984 (14) time taken:3.04 min
++++ pushed to hub - time elapsed 1.74 h 
