@@ -2663,3 +2663,25 @@
 - starting with 4806
 + completed 4806 (1) time taken:3.21 min
 - starting with 4807
++ completed 4807 (2) time taken:1.53 min
+- starting with 4808
++ completed 4808 (3) time taken:3.41 min
+- starting with 4809
++ completed 4809 (4) time taken:2.65 min
+- starting with 4810
++ completed 4810 (5) time taken:3.03 min
+- starting with 4811
++ completed 4811 (6) time taken:3.04 min
+- starting with 4812
++ completed 4812 (7) time taken:2.66 min
+- starting with 4813
++ completed 4813 (8) time taken:3.79 min
+- starting with 4814
++ completed 4814 (9) time taken:2.85 min
+- starting with 4815
++ completed 4815 (10) time taken:1.15 min
+- starting with 4816
++ completed 4816 (11) time taken:1.53 min
+- starting with 4817
++ completed 4817 (12) time taken:1.90 min
+- starting with 4818
